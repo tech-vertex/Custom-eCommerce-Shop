@@ -5,7 +5,7 @@ import Image from "next/image";
 import { useRouter } from "next/navigation";
 import React, { useEffect, useState } from "react";
 import toast from "react-hot-toast";
-
+//
 const RegisterPage = () => {
   const [error, setError] = useState("");
   const router = useRouter();
