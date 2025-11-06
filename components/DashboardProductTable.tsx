@@ -7,7 +7,7 @@
 // Input parameters: no input parameters
 // Output: products table
 // *********************
-
+//
 "use client";
 import { nanoid } from "nanoid";
 import Image from "next/image";
